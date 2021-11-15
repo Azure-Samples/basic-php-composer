@@ -1,14 +1,6 @@
-# Project Name
+# Simple PHP app with Composer
 
-(short, 1-3 sentenced, description of the project)
-
-## Features
-
-This project framework provides the following features:
-
-* Feature 1
-* Feature 2
-* ...
+Small PHP app used in code samples for Azure Apps and DevOps documentation. 
 
 ## Getting Started
 
@@ -27,13 +19,6 @@ This project framework provides the following features:
 - npm install [package name]
 - mvn install
 - ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
 
 
 ## Demo
