@@ -1,42 +1,17 @@
-# Simple PHP app with Composer
+---
+page_type: sample
+languages:
+- php
+products:
+- azure
+description: "This sample demonstrates a tiny PHP app with Composer."
+urlFragment: php-basic-composer
+---
 
-Small PHP app used in code samples for Azure Apps and DevOps documentation. 
+# PHP small Composer app
 
-## Getting Started
+Tiny PHP app used in code samples for Azure Apps and DevOps documentation.
 
-### Prerequisites
+## Contributing
 
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
